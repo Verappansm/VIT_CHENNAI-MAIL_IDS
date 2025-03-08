@@ -61,11 +61,11 @@
 
 #### School of Electronics Engineering
 - **SECRETARY - SENSE**  
-  📧 sensecc.secy@vit.ac.in
-- **DEAN - SENSE**
-  📧 deancc.sense@vit.ac.in
-- **HOD - ECM**
-  📧 pcblc.cc@vit.ac.in
+  📧 sensecc.secy@vit.ac.in  
+- **DEAN - SENSE**  
+  📧 deancc.sense@vit.ac.in  
+- **HOD - ECM**  
+  📧 pcblc.cc@vit.ac.in  
   
 
 #### School of Mechanical Engineering
