@@ -33,7 +33,7 @@
 - **Career Development Centre**  
   📧 chennai.cdc@vit.ac.in   
   📧 helpdesk.cdc@vit.ac.in
-- **NEO Portal**
+- **NEO Portal**  
   📧 support@iamneo.ai  
 
 ### SCHOOLS
