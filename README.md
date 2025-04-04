@@ -32,7 +32,9 @@
   📧 patqueries.chennai@vit.ac.in  
 - **Career Development Centre**  
   📧 chennai.cdc@vit.ac.in   
-  📧 helpdesk.cdc@vit.ac.in  
+  📧 helpdesk.cdc@vit.ac.in
+- **NEO Portal**
+  📧 support@iamneo.ai  
 
 ### SCHOOLS
 
