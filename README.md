@@ -97,7 +97,9 @@
 - **DIRECTOR STUDENTS WELFARE OFFICE**  
   📧 chennai.directorsw@vit.ac.in   
 - **ASSITANT DIRECTOR STUDENTS WELFARE**  
-  📧 chennai.asstdirectorsw@vit.ac.in  
+  📧 chennai.asstdirectorsw@vit.ac.in
+- **SWC EVENTS MAIL ID**
+  📧 chennai.swevents@vit.ac.in
 - **SWC SECRETARY**  
   📧 swcsecretary@vit.ac.in  
 
